@@ -1,0 +1,13 @@
+http://d.hearty.app/* https://d.hearty.app/:splat 301!
+
+/ https://go.hearty.me/hj 200
+
+/mac /mac/Hearty%20Journal.dmg 302
+/win /win/edge/Hearty%20Journal.exe 302
+/uwp https://bitly.com/3ynmYFL 302
+
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
+/gh/* https://raw.githubusercontent.com/chennien/d.hearty.app/main/:splat 302
+/* https://go.hearty.me/hj 200
