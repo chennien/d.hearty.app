@@ -12,7 +12,7 @@ http://d.hearty.app/* https://d.hearty.app/:splat 301!
 
 # LucidBook
 /lucidbook https://bit.ly/4e5RzNI 302
-/lucidbook/:f https://mozilla.github.io/pdf.js/web/viewer.html?file=https://i.hearty.app/b/dl/lucidbook/:f#toolbar=0 302
+/lucidbook/:f https://i.hearty.app/b/dl/lucidbook/:f 302
 
 /wp-admin https://api.hearty.app/wp-admin 200
 /wp-login.php https://api.hearty.app/wp-admin 200
