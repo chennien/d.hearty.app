@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-B4008BEAAB27</Company_UIN>
+    <Product_UIN>APP-D4002460DB27</Product_UIN>
+    <Publish_on_CD>N</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String>Hearty Journal 溫度日記</Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique>Hearty Journal 溫度日記</Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-6c0026632eb3</PublisherID>
+    <BrandID>bid-b4008beaab27</BrandID>
+    <Company_Name>Hearty Creative Inc.</Company_Name>
+    <Country>Taiwan</Country>
+    <State_Province>Taipei City</State_Province>
+    <City_Town>Daan District</City_Town>
+    <Zip_Postal_Code>106101</Zip_Postal_Code>
+    <Address_1>No. 3, Lane 265, Sec 2, Heping East Road</Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>https://miss.com.tw</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Nien</Contact_First_Name>
+      <Contact_Last_Name>Chen</Contact_Last_Name>
+      <Contact_Email>cpqmbf1m@nien.co</Contact_Email>
+      <Author_First_Name>Nien</Author_First_Name>
+      <Author_Last_Name>Chen</Author_Last_Name>
+      <Author_Email>cpqmbf1m@nien.co</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>cpqmbf1m@nien.co</Sales_Email>
+      <Support_Email>cpqmbf1m@nien.co</Support_Email>
+      <General_Email>cpqmbf1m@nien.co</General_Email>
+      <Sales_Phone>+886 2 8972 0218</Sales_Phone>
+      <Support_Phone>+886 2 8972 0218</Support_Phone>
+      <General_Phone>+886 2 8972 0218</General_Phone>
+      <Fax_Phone>+886 2 8972 0218</Fax_Phone>
+    </Support_Info>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage>https://hearty.app/fb</FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-d4002460db27</AppID>
+    <Program_Name>Hearty Journal 溫度日記</Program_Name>
+    <Program_Version>1.0.0.6</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>15</Program_Release_Day>
+    <Program_Release_Year>2022</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>System Utilities::Text/Document Editors</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Diary,Journal,Editor,Blog,Note</Program_Categories>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English,Chinese,ChineseSimplified,ChineseTraditional</Program_Language>
+    <Program_Change_Info>bug fix</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 or later</Program_System_Requirements>
+    <Limitations>Advanced features and stickers are only available in VIP Premium plan</Limitations>
+    <Awards>https://get.hearty.me</Awards>
+    <File_Info>
+      <File_Size_Bytes>246784</File_Size_Bytes>
+      <File_Size_K>241</File_Size_K>
+      <File_Size_MB>0.24</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <FacebookProductPage>https://hearty.app/fb</FacebookProductPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://hearty.me</Application_Info_URL>
+      <Application_Order_URL>https://hearty.me</Application_Order_URL>
+      <Application_Screenshot_URL>https://d.hearty.app/win/pad/screenshot.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://d.hearty.app/win/pad/icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://d.hearty.app/win/pad/pad.xml</Application_XML_File_URL>
+      <Video_Link_1_URL>https://www.youtube.com/watch?v=YreNs2bJVRY</Video_Link_1_URL>
+      <Video_Link_2_URL>https://www.youtube.com/watch?v=-32uK2ZVxHc</Video_Link_2_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://hearty.me/win</Primary_Download_URL>
+      <Secondary_Download_URL>https://d.hearty.app/win</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>diary,journal,note,blog,editor</Keywords>
+      <Char_Desc_45>Beautiful diary app with a focus on privacy</Char_Desc_45>
+      <Char_Desc_80>Beautiful diary and personal journal app with a focus on privacy</Char_Desc_80>
+      <Char_Desc_250>Hearty Journal is a beautiful diary and personal journal app with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper.</Char_Desc_250>
+      <Char_Desc_450>Hearty Journal is a beautiful diary and personal journal app with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it. In addition, meticulous themes, various lovely stickers and luxury fonts are available in the app. Hearty Journal works on both your computer and phone.</Char_Desc_450>
+      <Char_Desc_2000>Hearty Journal is a beautiful online diary and journal website / software which you can use to store the people, things, experience and thoughts you wanted to cherish.
+
+It allows you to create diary entries with beautiful illustrations, photos, YouTube videos and cute stickers (1,300+ and continue to add). So even if you don't like your handwriting or are not good at drawing, you can still have a good-looking diary. If you're a perfectionist, it is for you.
+
+After you create an account (Hearty ID), your Hearty ID will be the identity and let you access the diary entries on any of your devices. Also, all your data will be securely synced and backed up to the cloud with the ID. Then, you can give your Hearty Journal a name you think fits it and start adding diary entries.
+
+You can type in as much as you want, as there is no upper limit to the number of characters an entry can have. It's automatically saved as you type. You can customize your diary entry title and date to write a memo or keep yesterday's diary. You can also type hashtags in it, making it easier to find it later. You may also attach a YouTube video, a variety of photos, and several cute stickers.
+
+Its for iOS, macOS, Android, Windows and web (works seamlessly). Moreover, all connections are encrypted via TLS 1.3 - technology designed for online banking, when you're using Hearty Journal on any of your devices. You can also set a password lock. Once set up, all your Hearty Journal apps which are installed on different devices will be locked.</Char_Desc_2000>
+    </English>
+    <Chinese>
+      <Keywords>日記,日誌,筆記,部落格</Keywords>
+      <Char_Desc_45>以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻</Char_Desc_45>
+      <Char_Desc_80>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。</Char_Desc_80>
+      <Char_Desc_250>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。  溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計。登入後，即可開始寫作，書寫過程會自動儲存。20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常。採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私。跨平台支援：手機 App、網頁版、桌面應用程式。</Char_Desc_250>
+      <Char_Desc_450>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。  溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計。登入後，即可開始寫作，書寫過程會自動儲存。20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常。採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私。跨平台支援：手機 App、網頁版、桌面應用程式。</Char_Desc_450>
+      <Char_Desc_2000>【溫度日記，溫柔收藏你的每一寸時光】
+以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。
+
+
+【特色介紹】
+・溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計
+・登入後，即可開始寫作，書寫過程會自動儲存
+・20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常
+・採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私
+・跨平台支援：手機 App、網頁版、桌面應用程式
+
+
+在溫度日記你可以…
+1.更換喜愛的手寫字體 27款
+2.自訂書名、日記標題與日期，並加上每日天氣
+3.加入手繪貼紙、相片及 YouTube 影片
+4.添加專屬於你的背景歌單
+5.匯出你的日記，備份收藏
+6.加入 #標籤，便於分類搜尋
+7.設定螢幕密碼鎖，多層安全保護
+8.記錄生理週期，預測下次來訪日
+9.與閨密、伴侶、陌生筆友交換日記
+10.投稿至公開日記牆，分享彼此日常
+11.點開個人相片牆，一覽近日生活
+12.睡前看看晚安小語，來點溫柔和療癒</Char_Desc_2000>
+    </Chinese>
+    <ChineseSimplified>
+      <Keywords>日记,日誌,笔记,博客</Keywords>
+      <Char_Desc_45>以文字记下心情，选张喜爱的贴图妆点日记。无论美丽或哀愁，写下来让往后的自己重温有感的这一刻</Char_Desc_45>
+      <Char_Desc_80>【温度日记，温柔收藏你的每一寸时光】 以文字记下心情，选张喜爱的贴图妆点日记。无论美丽或哀愁，写下来让往后的自己重温有感的这一刻。</Char_Desc_80>
+      <Char_Desc_250>【温度日记，温柔收藏你的每一寸时光】  以文字记下心情，选张喜爱的贴图妆点日记。无论美丽或哀愁，写下来让往后的自己重温有感的这一刻。    温度日记是一本漂亮的日记电子书，介面乾淨无广告，专为永久储存回忆而设计。登入后，即可开始写作，书写过程会自动储存。20+款特色中文字体、1,300+ 张手绘感贴图，可随心选择，妆点日常。採用信用卡交易专用的顶级安全连线，资料加密后储存在云端，安全隐私。跨平台支援：手机 App、网页版、桌面应用程式。</Char_Desc_250>
+      <Char_Desc_450>【温度日记，温柔收藏你的每一寸时光】 以文字记下心情，再选张喜爱的贴图妆点日记。 无论美丽或哀愁，写下来都让往后的自己能重温有感的这一刻。   【特色介绍】 ・温度日记是一本漂亮的日记电子书，介面乾淨无广告，专为永久储存回忆而设计 ・登录后，即可开始写作，书写过程会自动储存 ・20+款特色中文字体、1,300+ 张手绘感贴图，可随心选择，妆点日常 ・採用銀行卡交易专用的顶级安全连线，数据加密后储存在云端，安全隐私 ・跨平台支援：手机程序、网页版、電腦版軟件</Char_Desc_450>
+      <Char_Desc_2000>【温度日记，温柔收藏你的每一寸时光】
+以文字记下心情，再选张喜爱的贴图妆点日记。
+无论美丽或哀愁，写下来都让往后的自己能重温有感的这一刻。
+
+
+【特色介绍】
+・温度日记是一本漂亮的日记电子书，介面乾淨无广告，专为永久储存回忆而设计
+・登录后，即可开始写作，书写过程会自动储存
+・20+款特色中文字体、1,300+ 张手绘感贴图，可随心选择，妆点日常
+・採用銀行卡交易专用的顶级安全连线，数据加密后储存在云端，安全隐私
+・跨平台支援：手机程序、网页版、電腦版軟件
+
+
+在温度日记你可以…
+1.更换喜爱的手写字体 27款
+2.自订书名、日记标题与日期，并加入每日天气
+3.加入手绘贴纸、相片及油管视频
+4.添加专属于你的背景歌单
+5.汇出你的日记，备份收藏
+6.加入 #标签，便于分类搜索
+7.设定屏幕密码锁，多一层安全保护
+8.记录生理週期，预测下次来访日
+9.与闺密、伴侣、陌生笔友交换日记
+10.投稿至公开日记牆，分享彼此日常
+11.点开个人相片牆，一览近日生活
+12.睡前看看晚安小语，来点温柔和疗癒</Char_Desc_2000>
+    </ChineseSimplified>
+    <ChineseTraditional>
+      <Keywords>日記,日誌,筆記,部落格</Keywords>
+      <Char_Desc_45>以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻</Char_Desc_45>
+      <Char_Desc_80>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。</Char_Desc_80>
+      <Char_Desc_250>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。  溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計。登入後，即可開始寫作，書寫過程會自動儲存。20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常。採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私。跨平台支援：手機 App、網頁版、桌面應用程式。</Char_Desc_250>
+      <Char_Desc_450>【溫度日記，溫柔收藏你的每一寸時光】 以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。  溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計。登入後，即可開始寫作，書寫過程會自動儲存。20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常。採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私。跨平台支援：手機 App、網頁版、桌面應用程式。</Char_Desc_450>
+      <Char_Desc_2000>【溫度日記，溫柔收藏你的每一寸時光】
+以文字記下心情，選張喜愛的貼圖妝點日記。無論美麗或哀愁，寫下來讓往後的自己重溫有感的這一刻。
+
+
+【特色介紹】
+・溫度日記是一本漂亮的日記電子書，介面乾淨無廣告，專為永久儲存回憶而設計
+・登入後，即可開始寫作，書寫過程會自動儲存
+・20+款特色中文字體、1,300+ 張手繪感貼圖，可隨心選擇，妝點日常
+・採用信用卡交易專用的頂級安全連線，資料加密後儲存在雲端，安全隱私
+・跨平台支援：手機 App、網頁版、桌面應用程式
+
+
+在溫度日記你可以…
+1.更換喜愛的手寫字體 27款
+2.自訂書名、日記標題與日期，並加上每日天氣
+3.加入手繪貼紙、相片及 YouTube 影片
+4.添加專屬於你的背景歌單
+5.匯出你的日記，備份收藏
+6.加入 #標籤，便於分類搜尋
+7.設定螢幕密碼鎖，多層安全保護
+8.記錄生理週期，預測下次來訪日
+9.與閨密、伴侶、陌生筆友交換日記
+10.投稿至公開日記牆，分享彼此日常
+11.點開個人相片牆，一覽近日生活
+12.睡前看看晚安小語，來點溫柔和療癒</Char_Desc_2000>
+    </ChineseTraditional>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>https://hearty.app/faq</Distribution_Permissions>
+    <EULA>https://hearty.app/terms</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>Nien</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Chen</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>cpqmbf1m@nien.co</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Headline></Headline>
+    <Summary></Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title>Hearty Journal 溫度日記</Site_Site_Title>
+    <Site_Site_URL>https://hearty.me</Site_Site_URL>
+    <Site_Keywords>diary,journal,blog,editor</Site_Keywords>
+    <Site_Description_100>Hearty Journal is a beautiful diary and personal journal app with a focus on privacy.</Site_Description_100>
+    <Site_Description_250>Hearty Journal is a beautiful diary and personal journal app with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper.</Site_Description_250>
+    <Site_Description_450>Hearty Journal is a beautiful diary and personal journal app with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it.</Site_Description_450>
+    <Site_Contact_First_Name>Nien</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Chen</Site_Contact_Last_Name>
+    <Site_Contact_Email>cpqmbf1m@nien.co</Site_Contact_Email>
+  </Site>
+  <Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>Hearty_Journal_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://hearty.me/win</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>Hearty_Journal_pad.exe</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
