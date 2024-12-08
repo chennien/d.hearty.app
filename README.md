@@ -1,14 +1,14 @@
 # Hearty Journal 溫度日記 | Static Files
 
-[www.hearty.me](http://go.nien.co/2EuAjQV) 
+[![Hearty Journal 溫度日記](https://i0.wp.com/cdn.jsdelivr.net/gh/heartyme/web.hearty.me@main/img/header.png)](https://hearty.me) 
 
 
 [iOS](https://apple.co/3AXkUah) | 
-[Android](https://goo.gl/mFdkgx) | 
+[Android](https://go.nien.co/3ucwTl1) | 
 [Android (APK)](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@main/android/Hearty%20Journal.apk) | 
 [macOS](https://d.hearty.app/mac) | 
 [Windows](https://d.hearty.app/win) | 
-[Windows (UWP)](https://bitly.com/3ynmYFL) 
+[Windows (UWP)](https://d.hearty.app/uwp) 
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed87f73d-989c-44d3-b950-08e30bb7c705/deploy-status)](https://app.netlify.com/sites/heartyd/deploys) 
@@ -24,7 +24,7 @@
 ![Made with love in Taiwan](https://madewithlove.vercel.app/tw?heart=true&template=flat-square) 
 
 
-iOS Profiles, AdGuard DNS: [DNS over HTTPS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@1/ios/AdGuard.DoH.mobileconfig) | [DNS over TLS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@1/ios/AdGuard.DoT.mobileconfig) 
+iOS Profiles, AdGuard DNS: [DNS over HTTPS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@main/ios/AdGuard.DoH.mobileconfig) | [DNS over TLS](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@main/ios/AdGuard.DoT.mobileconfig) 
 
 
 [Repository Link](https://git.io/J3ycP) 

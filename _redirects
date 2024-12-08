@@ -9,6 +9,8 @@ http://d.hearty.app/* https://d.hearty.app/:splat 301!
 /mac/* https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@1/mac/Hearty%20Journal.dmg 302
 /uwp https://bitly.com/3ynmYFL 302
 /uwp/* https://bitly.com/3ynmYFL 302
+/ios https://apple.co/3AXkUah 302
+/android https://go.nien.co/3ucwTl1 302
 
 # LucidBook
 /lucidbook https://bit.ly/4e5RzNI 302
