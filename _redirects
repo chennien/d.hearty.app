@@ -1,0 +1,22 @@
+https://heartyd.netlify.app/* https://go.hearty.me/rhearty 301!
+http://d.hearty.app/* https://d.hearty.app/:splat 301!
+
+/ https://hearty.me 200
+/win /win/1.2.0/Hearty%20Journal.exe 302
+/win/* /win/1.2.0/Hearty%20Journal.exe 302
+/mac https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@0/mac/opener/Hearty%20Journal.dmg 302
+/mac/* https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@0/mac/opener/Hearty%20Journal.dmg 302
+/uwp https://apps.microsoft.com/store/detail/9NFJJ03TS908 302
+/uwp/* https://apps.microsoft.com/store/detail/9NFJJ03TS908 302
+/ios https://apple.co/3AXkUah 302
+/android https://play.google.com/store/apps/details?id=com.hearty.me 302
+
+# LucidBook
+/lucidbook https://drive.google.com/uc?export=download&id=1rhI1HIQuEv30GMlAeaZ5qvxrseA9IM1V 302
+/lucidbook/:f https://i.hearty.app/b/dl/lucidbook/:f 302
+
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
+/gh/* https://raw.githubusercontent.com/chennien/d.hearty.app/main/:splat 302
+/* https://go.hearty.me/hj 200
